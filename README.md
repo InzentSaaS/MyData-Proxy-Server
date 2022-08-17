@@ -9,6 +9,14 @@ MyData Proxy Server는 망 분리된 업무 환경에서 DMZ 구간에 위치하
 * On-premise :	[KCB] Private Cloud 기반 마이데이터 사업자 시스템 구축을 위해 Proxy Server를 사용한 사례입니다.  
 http://www.inzent-mydata.com/board/board.php?bo_table=case&pg=1&idx=13
 
-* Public Cloud :	[교보생명] Hybrid Cloud기반 마이데이터 플랫폼 구축에 사용된 사례입니다.
+* Public Cloud :	[교보생명] Hybrid Cloud기반 마이데이터 플랫폼 구축에 사용된 사례입니다.<br>
 http://www.inzent-mydata.com/board/board.php?bo_table=case&pg=2&idx=6
 
+
+## 시스템 장비 구성 및 요구 사항
+구축 위치	사용 사례
+On-premise	[KCB] Private Cloud 기반 마이데이터 사업자 시스템 구축을 위해 Proxy Server를 사용한 사례입니다.<br>  
+http://www.inzent-mydata.com/board/board.php?bo_table=case&pg=1&idx=13
+
+Public Cloud	[교보생명] Hybrid Cloud기반 마이데이터 플랫폼 구축에 사용된 사례입니다.
+![image](https://user-images.githubusercontent.com/110973169/185041122-7eb74f4d-7e86-4a2d-bec0-acd626857d06.png)
