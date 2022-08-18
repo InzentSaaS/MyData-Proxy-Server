@@ -15,3 +15,8 @@ http://www.inzent-mydata.com/board/board.php?bo_table=case&pg=2&idx=6
 
 ## 시스템 장비 구성 및 요구 사항
 ![image](https://user-images.githubusercontent.com/110973169/185041122-7eb74f4d-7e86-4a2d-bec0-acd626857d06.png)
+
+### 문의
+*  URL : http://www.inzent-mydata.com/Questions.php
+*  TEL : 070)8209-6189
+*  E-mail : info@inzent.com
